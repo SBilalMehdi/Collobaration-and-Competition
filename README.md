@@ -1,3 +1,6 @@
+[//]: # (Image References)
+[image]: https://github.com/Unity-Technologies/ml-agents/blob/master/docs/images/tennis.png "Tennis"
+
 # Project 3: Collaboration and Competition
 
 ## Introduction
@@ -8,7 +11,7 @@ This repository serves as a submission for "Collaboration and Competition" Proje
 
 The repository is used with a modified version of [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) Environment as provided in the Udacity Nanodegree.
 
-![Tennis][https://github.com/Unity-Technologies/ml-agents/blob/master/docs/images/tennis.png]
+![Tennis][image]
 
 In this environment, two agents control rackets to bounce a ball over a net. If an agent hits the ball over the net, it receives a reward of +0.1. If an agent lets a ball hit the ground or hits the ball out of bounds, it receives a reward of -0.01. Thus, the goal of each agent is to keep the ball in play.
 
